@@ -3,7 +3,7 @@
 <img align="right" alt="Artificial Intelligence" src="https://media.giphy.com/media/Riu2QxvmfrvzRUs6Rv/giphy.gif" width="300"/> 
 
 - 👀 I’m interested in MLOps
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science and DSA
 - 🔭 I'm currently working on ML projects
 - 📫 How to reach me riteshsingh9827@gmail.com
 - ⚡ I love watching anime and lift weights
